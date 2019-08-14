@@ -1,4 +1,4 @@
- from torchbench.image_classification import ImageNet
+from torchbench.image_classification import ImageNet
 import torchvision.transforms as transforms
 import torchvision.transforms.functional as F
 import PIL
