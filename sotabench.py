@@ -85,6 +85,6 @@ ImageNet.benchmark(
     paper_model_name='FixResNeXt-101 32x48d',
     paper_arxiv_id='1906.06423',
     input_transform=input_transform,
-    batch_size=32,
+    batch_size=64,
     num_gpu=1
 )
