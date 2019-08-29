@@ -87,5 +87,5 @@ ImageNet.benchmark(
     input_transform=input_transform,
     batch_size=32,
     num_gpu=1,
-    model_description="Official weights from the author's of the paper.",
+    model_description="Official weights from the author's of the paper."
 )
