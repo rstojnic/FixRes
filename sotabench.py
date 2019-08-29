@@ -6,7 +6,6 @@ import urllib.request
 import torch
 from imnet_evaluate.resnext_wsl import resnext101_32x48d_wsl
 
-# TODO
 
 def _is_pil_image(img):
     if accimage is not None:
