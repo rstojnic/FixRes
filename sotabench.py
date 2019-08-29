@@ -86,5 +86,6 @@ ImageNet.benchmark(
     paper_arxiv_id='1906.06423',
     input_transform=input_transform,
     batch_size=32,
-    num_gpu=1
+    num_gpu=1,
+    model_description="Official weights from the author's of the paper."
 )
